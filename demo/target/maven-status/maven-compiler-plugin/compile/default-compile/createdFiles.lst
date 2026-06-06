@@ -1,0 +1,15 @@
+com\example\financetracker\config\SecurityConfig.class
+com\example\financetracker\FinanceTrackerApplication.class
+com\example\financetracker\service\UserService.class
+com\example\financetracker\controller\FinancialAdvisorController$ChatRequest.class
+com\example\financetracker\service\CustomUserDetailsService.class
+com\example\financetracker\service\FinancialAdvisorService.class
+com\example\financetracker\repository\TransactionRepository.class
+com\example\financetracker\model\Transaction.class
+com\example\financetracker\controller\UserController.class
+com\example\financetracker\controller\TransactionController.class
+com\example\financetracker\controller\FinancialAdvisorController$ChatResponse.class
+com\example\financetracker\controller\FinancialAdvisorController.class
+com\example\financetracker\model\User.class
+com\example\financetracker\repository\UserRepository.class
+com\example\financetracker\service\TransactionService.class
